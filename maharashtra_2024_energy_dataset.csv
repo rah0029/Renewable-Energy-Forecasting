@@ -1,4 +1,4 @@
-Date,Day of Week,Season,City,Load Type,Temperature (°C),Humidity (%),Rainfall (mm),Cloud Cover (%),Wind Speed (m/s),Solar Radiation (W/m�),Wind Power (MW),Solar Power (MW),Hydro Power (MW),Electric Load (MW),Energy Consumption Trend
+Date,Day of Week,Season,City,Load Type,Temperature (Â°C),Humidity (%),Rainfall (mm),Cloud Cover (%),Wind Speed (m/s),Solar Radiation (W/m²),Wind Power (MW),Solar Power (MW),Hydro Power (MW),Electric Load (MW),Energy Consumption Trend
 01-01-2024,Monday,Winter,Nashik,Mixed,29.95166667,59.8,2.1,38.7,5.521666667,2963.66,782.76,305.63,1199.6,2516.31,Increasing
 02-01-2024,Tuesday,Winter,Aurangabad,Mixed,29.735,61.3,8.8,35.2,5.666666667,3184.3,819.55,320.65,1220,2552.61,Stable
 03-01-2024,Wednesday,Winter,Pune,Residential,28.55125,82.4,4,43.4,6.04375,2903.19,854.55,280.72,1202.71,2549.79,Decreasing
