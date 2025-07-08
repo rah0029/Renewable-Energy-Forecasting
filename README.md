@@ -89,3 +89,27 @@ This project provides a **scalable**, **interpretable**, and **data-driven** app
 - Explore LSTM, Transformers, and hybrid models for better accuracy
 - Deploy to cloud platforms or edge devices using Docker/Kubernetes
 - Incorporate satellite and IoT sensor data for higher-resolution forecasting
+
+  ---
+
+## 👨‍🎓 Authors
+
+- **Rahul Singh** – MCA (Data Science), ADYPU  
+- **Sivabalkrishnan Nair** – MCA (Data Science), ADYPU  
+- **Rajeev Nair** – MCA (Data Science), ADYPU  
+
+Under the supervision of **Prof. Ranjana Singh**, School of Computer and Technology, Ajeenkya D Y Patil University, Pune.
+
+---
+
+## 📥 Contributions Welcome
+
+If you're interested in renewable forecasting, smart grids, or ML for sustainability, feel free to fork this repository, raise issues, or contribute ideas.
+
+---
+
+## 📬 Contact
+
+📧 rahulsingh@example.com  
+🔗 [LinkedIn](https://linkedin.com/in/rahul-your-profile)
+
